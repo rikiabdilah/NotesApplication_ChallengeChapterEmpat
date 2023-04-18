@@ -13,4 +13,6 @@
     <string name="filter">Filter</string>
     <string name="ascending">Ascending</string>
     <string name="descending">Descending</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
