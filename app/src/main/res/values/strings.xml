@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes Application</string>
+    <string name="fab_add">fab add</string>
+    <string name="ic_delete">ic delete</string>
+    <string name="ic_edit">ic edit</string>
+    <string name="delete">Delete</string>
+    <string name="txt_cancel">cancel</string>
+    <string name="edit_data">edit data</string>
+    <string name="masukkan_judul">masukkan judul</string>
+    <string name="masukkan_catatan">masukkan catatan</string>
+    <string name="update">update</string>
+    <string name="add_data">Add Data</string>
+    <string name="filter">Filter</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+</resources>
